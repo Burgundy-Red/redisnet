@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=c99 -g -g  -rdynamic CMakeFiles/server_test.dir/server_test.o CMakeFiles/server_test.dir/ae.o CMakeFiles/server_test.dir/anet.o CMakeFiles/server_test.dir/protocol.o CMakeFiles/server_test.dir/buffer.o  -o server_test 

@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/melrose/test/t_net/buffer.h
+sys/types.h
+-
+
+/home/melrose/test/t_net/define.h
+stdint.h
+-
+
+/home/melrose/test/t_net/protocol.c
+protocol.h
+/home/melrose/test/t_net/protocol.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+assert.h
+-
+define.h
+/home/melrose/test/t_net/define.h
+
+/home/melrose/test/t_net/protocol.h
+stdint.h
+-
+buffer.h
+/home/melrose/test/t_net/buffer.h
+

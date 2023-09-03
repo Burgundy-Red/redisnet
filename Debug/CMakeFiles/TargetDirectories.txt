@@ -1,0 +1,4 @@
+/home/melrose/test/t_net/Debug/CMakeFiles/rebuild_cache.dir
+/home/melrose/test/t_net/Debug/CMakeFiles/edit_cache.dir
+/home/melrose/test/t_net/Debug/CMakeFiles/server_test.dir
+/home/melrose/test/t_net/Debug/CMakeFiles/server.dir
