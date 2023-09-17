@@ -5,7 +5,7 @@
 
 #include "buffer.h"
 
-#define MAGIC_NUMBER    0x3f3f3f3f
+#define MAGIC_NUMBER    0x55aa55aa
 
 // package type
 #define QUERY 1
